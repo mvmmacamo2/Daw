@@ -4,7 +4,7 @@
 
 
 @section('title')
-Requisitando Visita Guiada
+Requisitando Visita Guiada Escolar
 @stop
 @section('content')
 
