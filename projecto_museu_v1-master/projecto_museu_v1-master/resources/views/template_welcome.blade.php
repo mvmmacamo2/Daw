@@ -77,8 +77,8 @@
                 <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Serviços</a>
                 <div class="dropdown-menu">
                   <a class="dropdown-item" href="/servicos/escola">Actividades Com Escolas</a>
-                  <a class="dropdown-item" href="">Visitas Guiadas</a>
-                  <a class="dropdown-item" href="">Patio para Eventos</a>
+                  <a class="dropdown-item" href="/servicos/individual">Visitas Guiadas Individual</a>
+                  <a class="dropdown-item" href="/servicos/patio">Patio para Eventos</a>
                   {{--<a class="dropdown-item" href="">Serviço 4</a>--}}
                 </div>
               </li>
