@@ -89,7 +89,7 @@
               @if (Route::has('login'))
                 @auth
                   <li class="nav-item dropdown">
-                    <a class="nav-link active dropdown-toggle" href="{{ route('logout') }}"" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">olá {{ Auth::user()->name }}</a>
+                    <a class="nav-link active dropdown-toggle" href="{{ route('logout') }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">olá {{ Auth::user()->name }}</a>
                     <div class="dropdown-menu">
                       <a href="{{ route('home') }}">
                           Home
